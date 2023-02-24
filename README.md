@@ -1,16 +1,17 @@
 ### Hi there 👋
+### Hi there 👋
+#### Hi there 👋
+##### Hi there 👋
+###### Hi there 👋
 
-<!--
-**Rasangjoon2/Rasangjoon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**두껍게**<br>
+*이탤릭* <br>
+~~스트라이크~~ <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ * 1번
+ * 2
+ 
+ print("ㅋ ㅋ ㅋ")
+ System.out.writeline();
+ 
